@@ -19,3 +19,9 @@ https://www.youtube.com/watch?v=8XYdN6cf96Q
 Octave - C++ /Qt 
 Demo -
 https://www.youtube.com/watch?v=SL3I4TzH_hw
+
+---
+- Agronomic data pointing application with Excel data generation
+Android / Kotlin
+Demo -
+https://www.youtube.com/watch?v=IGS4rtvUYg8
